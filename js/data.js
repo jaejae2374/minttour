@@ -31,7 +31,7 @@ const qnaList = [
       { answer: '침대', type: [1] },
       { answer: '시티뷰', type: [4] },
       { answer: '조식', type: [0] },
-	  { answer: '게스트 하우스', type: [2] },
+	  { answer: '게스트하우스', type: [2] },
     ]
   },
   {
