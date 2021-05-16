@@ -39,7 +39,7 @@ const qnaList = [
     a: [
       { answer: '뚜벅이', type: [2] },
       { answer: '자전거', type: [3] },
-      { answer: '안 나간다', type: [1] },
+      { answer: '안나감', type: [1] },
 	  
     ]
   },
@@ -47,7 +47,7 @@ const qnaList = [
     q: '배가 고파진 당신, 식당을 어떻게 찾을까요?',
     a: [
       { answer: '맛집 검색', type: [0] },
-      { answer: '룸 서비스', type: [1] },
+      { answer: '룸서비스', type: [1] },
     
     ]
   },
@@ -68,7 +68,7 @@ const qnaList = [
       { answer: '옷', type: [4] },
       { answer: '공기', type: [3] },
       { answer: '특산품', type: [2] },
-	  { answer: '대표 음식', type: [0] },
+	  { answer: '대표음식', type: [0] },
     ]
   }
 ]
